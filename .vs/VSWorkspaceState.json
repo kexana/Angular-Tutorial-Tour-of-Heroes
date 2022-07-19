@@ -3,8 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\messages"
+    "\\src\\app\\hero-detail",
+    "\\src\\app\\heroes"
   ],
-  "SelectedNode": "\\src\\app\\messages\\messages.component.ts",
+  "SelectedNode": "\\src\\app\\heroes\\heroes.component.css",
   "PreviewInSolutionExplorer": false
 }
